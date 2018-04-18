@@ -4,4 +4,4 @@
 
 ## Live Demo
 
-[another_clock](https://dominikleitner.github.io/another_clock/)
+[another_clock](https://leitnerdominik.github.io/another_clock/)
